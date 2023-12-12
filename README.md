@@ -11,6 +11,10 @@ Repo du Frontend du TP IGL
 
 Executer la commande
 ```
+npm install
+```
+puis
+```
 npm run dev
 ```
 pour lancr l'application, puis ouvrez http://localhost:3000/ pour visualiser le resultat.
