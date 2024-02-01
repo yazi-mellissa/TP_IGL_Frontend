@@ -11,7 +11,8 @@ module.exports = {
         "aa-marron":"#B38B59",
         "aa-vert":"#113E21",
         "aa-gris":"#F0F0F0",
-        "aa-white":"#FEFEFE"
+        "aa-white":"#FEFEFE",
+        "aa-error":"#AA2020"
       }
     }
   },
